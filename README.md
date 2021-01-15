@@ -121,8 +121,10 @@ Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:3-01-
 
 Link del archivo de los calculos teoricos :
 
+https://github.com/iaportero/Practica-3_Teoremadesuperposicion/tree/main/Codigo%20Fuente
 
 Link del video de la practica : 
 
+https://youtu.be/pNtgN-v46UU
 
 
