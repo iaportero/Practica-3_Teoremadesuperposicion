@@ -51,6 +51,9 @@ Circuito a armar
 
 ![](https://github.com/iaportero/Practica-3_Teoremadesuperposicion/blob/main/Imagenes/ig2.png)
 
+Usando Tinkercad
+
+![](https://github.com/iaportero/Practica-3_Teoremadesuperposicion/blob/main/Imagenes/ig4.png)
 
 4. Lista de componentes
 
